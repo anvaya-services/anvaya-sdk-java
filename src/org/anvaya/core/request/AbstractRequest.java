@@ -10,4 +10,7 @@
 package org.anvaya.core.request;
 
 public abstract class AbstractRequest implements Request{
+
+    protected String uri;
+    protected String method;
 }

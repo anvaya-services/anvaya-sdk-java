@@ -9,6 +9,6 @@
  */
 package org.anvaya.core.request;
 
-public interface Request {
+interface Request {
 
 }
